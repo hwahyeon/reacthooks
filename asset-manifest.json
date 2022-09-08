@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reacthooks/static/css/main.073c9b0a.css",
+    "main.js": "/reacthooks/static/js/main.f56c3e09.js",
+    "static/js/787.30b507a9.chunk.js": "/reacthooks/static/js/787.30b507a9.chunk.js",
+    "static/media/logo.svg": "/reacthooks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reacthooks/index.html",
+    "main.073c9b0a.css.map": "/reacthooks/static/css/main.073c9b0a.css.map",
+    "main.f56c3e09.js.map": "/reacthooks/static/js/main.f56c3e09.js.map",
+    "787.30b507a9.chunk.js.map": "/reacthooks/static/js/787.30b507a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f56c3e09.js"
+  ]
+}
